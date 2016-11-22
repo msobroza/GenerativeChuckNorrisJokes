@@ -15,5 +15,5 @@ It is highly recommended to use a GPU
 It generates english or french jokes 
 
 Example:
-"Les fantômes ont peur de la porte de Churck Norris"
+"Les fantômes ont peur de la porte de Chuck Norris"
 

@@ -5,6 +5,7 @@ Libraries:
 - keras
 - numpy
 - json
+- requests
 
 It is highly recommended to use a GPU
 

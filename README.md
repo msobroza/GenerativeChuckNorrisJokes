@@ -13,11 +13,11 @@ Libraries:
 
 It is highly recommended to use a GPU
 
-### If you want to execute the code:
+### Train the model:
 
 > python chuck_norris.py
 
-It generates english or french jokes 
+It generates English or French jokes.
 
 Example:
 "Les fantômes ont peur de la porte de Chuck Norris"

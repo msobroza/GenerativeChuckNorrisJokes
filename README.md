@@ -22,3 +22,5 @@ It generates English or French jokes.
 Example:
 "Les fantômes ont peur de la porte de Chuck Norris"
 
+By Max Raphael Sobroza Marques
+
